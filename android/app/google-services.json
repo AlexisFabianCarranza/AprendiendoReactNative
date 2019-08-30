@@ -42,43 +42,6 @@
           ]
         }
       }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:416585619530:android:e1e4cbfcd7d8a8ef",
-        "android_client_info": {
-          "package_name": "com.estudiantesanonimos.aprendiendoreactnative"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "416585619530-39014qktfv6s9mh0ou3ib178aa5bdedk.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.estudiantesanonimos.aprendiendoreactnative",
-            "certificate_hash": "4ac61b2b809d8b1b251f852683813ce86950dc18"
-          }
-        },
-        {
-          "client_id": "416585619530-k1hi8lfui7us1qpq070t05fedl885ace.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDfLCYxmTT5ZIu2InA4f6byufhQmhYxNDA"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "416585619530-k1hi8lfui7us1qpq070t05fedl885ace.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
     }
   ],
   "configuration_version": "1"
